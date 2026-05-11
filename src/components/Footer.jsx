@@ -18,7 +18,7 @@ function Footer() {
         <div className="footer-copy">
           Made with ❤️ by{" "}
           <a href="https://github.com/tonymac129/" target="_blank">
-            Tony Macaroni
+            Niam Nangalia
           </a>
         </div>
       </div>
