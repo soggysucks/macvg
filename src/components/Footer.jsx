@@ -17,7 +17,7 @@ function Footer() {
         <div className="footer-copy">All rights reserved</div>
         <div className="footer-copy">
           Made with ❤️ by{" "}
-          <a href="https://github.com/tonymac129/" target="_blank">
+          <a href="https://github.com/niamco/" target="_blank">
             Niam Nangalia
           </a>
         </div>
